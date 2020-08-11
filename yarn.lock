@@ -4414,6 +4414,11 @@ gulp-pug@^4.0.1:
     replace-ext "^1.0.0"
     through2 "^2.0.3"
 
+gulp-pugbem@^2.2.4:
+  version "2.2.4"
+  resolved "https://registry.yarnpkg.com/gulp-pugbem/-/gulp-pugbem-2.2.4.tgz#161929c1e0d575eb82662eea99570119979688e3"
+  integrity sha512-fpjXUvn3SKvR9rOYtGMMrp/mO8umTTTZGur0I45/DutdfPuoJ5i47/m6svD0ZJgWVBOAZFmeu4P7tSirBBO/pw==
+
 gulp-replace@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/gulp-replace/-/gulp-replace-1.0.0.tgz#b32bd61654d97b8d78430a67b3e8ce067b7c9143"
